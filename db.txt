@@ -1,0 +1,2 @@
+delete from textdb;
+update sqlite_sequence set seq=0 where name='Textdb';
